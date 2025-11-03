@@ -8,7 +8,7 @@ export default defineConfig({
   server: {
     host: true,
     allowedHosts: [
-      'consisting-download-carefully-outlet.trycloudflare.com'
+      'dropped-lip-wendy-ipod.trycloudflare.com'
     ],
   },
 })
